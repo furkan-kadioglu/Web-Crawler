@@ -1,9 +1,7 @@
 # Web-Crawler
-***
 Crawls courses' data from Bogazici University registration web site
 ### Intro 
 Pandas library is used to manage and manipulate the data. There are two arrays contains short and long names of the departments.
-***
 ### Inputs
 
 First takes the argumnets and converts them into encoded format.
